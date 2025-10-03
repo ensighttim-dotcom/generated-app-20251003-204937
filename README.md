@@ -2,7 +2,7 @@
 
 A beautiful and real-time dashboard to monitor the health and performance of your API endpoints.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ensighttim-dotcom/generated-app-20251003-204937)
 
 ## About The Project
 
@@ -97,7 +97,7 @@ This application is designed for easy deployment to the Cloudflare network.
 
 You can deploy this project to your own Cloudflare account with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ensighttim-dotcom/generated-app-20251003-204937)
 
 ### Manual Deployment via CLI
 
